@@ -94,6 +94,6 @@
 /* Modify text font-size and alignment */
 .google-visualization-table-table {
 	width:100%;
-	text-align:right;
+	text-align:left;
 	font-size:10pt!important;
 }

@@ -11,15 +11,6 @@
 	background-color:#3d45ff;
 }
 
-/** Card view specific **/
-.viewCards .google-visualization-table-table {
-	background-color: transparent!important;
-}
-.viewCards .google-visualization-table-td {
-	border-color: #D8D8D8!important;
-	padding: 1px 2px 1px 2px;
-}
-
 /*** Google visualization override ***/
 
 /* page number display */
@@ -98,4 +89,5 @@
 	text-align:left;
 	font-size:10pt!important;
 	whitespace: pre;
+	padding: 1px 2px 1px 2px;
 }

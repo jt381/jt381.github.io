@@ -98,3 +98,8 @@
 .google-visalization-table-table-td {
 	whitespace: pre-wrap;
 }
+
+body, td, div, span, p {
+	whitespace: pre-wrap;
+	color: pink;
+}

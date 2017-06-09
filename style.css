@@ -34,12 +34,12 @@
 }
 
 /* selected/hovered row in a TABLE view */
-.google-visualization-table-tr-sel td,
+/*.google-visualization-table-tr-sel td,
 .google-visualization-table-tr-over td {
 	background-color: #FFFFCC!important;
 	font-size: 14px;
 }
-
+*/
 /*** Configuration of FILTERS ***/
 
 /** Labels of filters **/

@@ -87,12 +87,6 @@
 .google-visualization-table-table {
 	width:100%;
 	text-align:left;
-	font-size:11pt!important;
-	whitespace: pre-wrap;
-	padding: 1px 2px 1px 2px;
-	line-height: 150%;
-	font-family: 'Roboto', sans-serif;
-
 }
 
 .google-visalization-table-table-td {
@@ -103,5 +97,7 @@ body, td, div, span, p {
 	whitespace: pre-line!important; 
 	color: #6E6E6E;
 	font-family: 'Roboto', sans-serif;
-
+	padding: 1px 2px 1px 2px;
+	line-height: 150%;
+	font-size:11pt!important;
 }

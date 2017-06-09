@@ -99,7 +99,7 @@
 	whitespace: pre-wrap;
 }
 
-body, td, div, span, p {
+td {
 	whitespace: pre-wrap;
 	color: pink;
 }

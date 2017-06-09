@@ -94,3 +94,7 @@
 	font-family: 'Roboto', sans-serif;
 
 }
+
+.google-visalization-table-p {
+	whitespace: pre-wrap;
+}

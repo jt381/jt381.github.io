@@ -25,6 +25,12 @@
 	color:#444444;
 }
 
+.goog-custom-button-inner-box>.google-visualization-table-page-next:before, .goog-custom-button-inner-box>.google-visualization-table-page-prev:before {
+    display: block!important;
+    font-size: 90px!important;
+    font-weight: 700;
+}
+
 /* selected/hovered row in a TABLE view */
 /*.google-visualization-table-tr-sel td,
 .google-visualization-table-tr-over td {

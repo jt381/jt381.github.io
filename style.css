@@ -101,5 +101,7 @@
 
 body, td, div, span, p {
 	whitespace: pre-line!important; 
-	color: pink;
+	color: #6E6E6E;
+	font-family: 'Roboto', sans-serif;
+
 }

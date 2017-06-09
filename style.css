@@ -88,7 +88,7 @@
 	width:100%;
 	text-align:left;
 	font-size:11pt!important;
-	whitespace: pre;
+	whitespace: pre-wrap;
 	padding: 1px 2px 1px 2px;
 	line-height: 150%;
 	font-family: 'Roboto', sans-serif;

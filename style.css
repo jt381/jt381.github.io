@@ -99,5 +99,5 @@ body, td, div, span, p {
 }
 
 td {
-	min-width: 200px;
+	padding-left: 5px;
 }

@@ -18,7 +18,7 @@
 .viewCards .google-visualization-table-td {
 	border-color: #D8D8D8!important;
 	padding: 1px 2px 1px 2px;
-	whitespace: pre-line;
+	whitespace: pre;
 }
 
 /*** Google visualization override ***/

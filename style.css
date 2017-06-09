@@ -89,15 +89,15 @@
 	text-align:left;
 }
 
-.google-visalization-table-table-td {
-	whitespace: pre-wrap;
-}
 
 body, td, div, span, p {
 	whitespace: pre-line!important; 
 	color: #4A4A4A;
 	font-family: 'Roboto', sans-serif;
-	padding: 1px 2px 10px 5px;
 	line-height: 170%;
 	font-size:11pt!important;
+}
+
+td {
+	min-width: 350px;
 }

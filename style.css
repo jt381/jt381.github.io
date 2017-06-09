@@ -25,13 +25,13 @@
 	color:#444444;
 }
 
-.goog-custom-button-inner-box>.google-visualization-table-page-prev:before {
+.goog-custom-button-inner-box>.google-visualization-table-page-prev {
     display: block!important;
     font-size: 90px!important;
     font-weight: 700;
 }
 
-.goog-custom-button-inner-box>.google-visualization-table-page-next:before {
+.goog-custom-button-inner-box>.google-visualization-table-page-next {
     display: block!important;
     font-size: 90px!important;
     font-weight: 700;

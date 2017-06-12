@@ -102,11 +102,11 @@
 }
 
 
-body, td, div, span, p {
+td, p {
 	white-space: pre-line!important; 
 	color: #4A4A4A;
 	font-family: 'Roboto', sans-serif;
-	line-height: 100%;
+	line-height: 170%;
 	font-size:11pt!important;
 }
 

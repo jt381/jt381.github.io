@@ -113,7 +113,7 @@ td, p {
 }
 
 tr {
-	border-top:1px solid #000;
+	border-top:1px solid #000!important;
 }
 
 th, td {

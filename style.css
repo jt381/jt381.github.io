@@ -53,7 +53,7 @@
 
 /** StringFilter **/
 .google-visualization-controls-stringfilter INPUT {
-	border:1px solid #d9d9d9!important;
+	border:1px solid #d9d9d9 !important;
 	color:#222;
 }
 /*.google-visualization-controls-stringfilter INPUT:hover {
@@ -74,13 +74,13 @@
 	background:#DED3D8;
 }
 .google-visualization-controls-categoryfilter LI{
-	background-color:#D2D8E6!important;
+	background-color:#D2D8E6 !important;
 }
 
 /* CategoryFilter & csvFilter hovered item in the dropdown */
 .charts-menuitem-highlight {
-	background-color:#FFFFCC!important;
-	border-color:#FFFFCC!important;
+	background-color:#FFFFCC !important;
+	border-color:#FFFFCC !important;
 }
 
 /** NumberRangeFilter **/
@@ -92,7 +92,7 @@
 }
 /* label showing the current thumb value */
 .google-visualization-controls-rangefilter-thumblabel {
-	color:#444444!important;
+	color:#444444 !important;
 }
 
 /* Modify text font-size and alignment */
@@ -103,17 +103,17 @@
 
 
 td, p {
-	white-space: pre-line!important;
+	white-space: pre-line !important;
 	text-align:left;
 	color: #4A4A4A;
 	font-family: 'Roboto', sans-serif;
 	line-height: 170%;
-	font-size: 12px!important;
-	border-top:1px solid #000!important;
+	font-size: 12px !important;
+	border-top:1px solid #000 !important;
 }
 
 tr {
-	border-top:1px solid #000!important;
+	border-top:1px solid #000 !important;
 }
 
 th, td {

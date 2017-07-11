@@ -112,6 +112,10 @@ td, p {
 	border-top:1px solid #a5a5a5
 }
 
+tr {
+	border-top:1px solid #000;
+}
+
 th, td {
 	padding: 20px;
 }
